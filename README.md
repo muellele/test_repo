@@ -9,7 +9,6 @@ does a link work as well?
 - to somewhere else: https://help.github.com/articles/using-jekyll-with-pages/
 
 
-=========
 one more title
 =========
 
